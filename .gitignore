@@ -364,3 +364,5 @@ FodyWeavers.xsd
 /.sonarqube/conf
 /build-scanner-6.2.bat
 /build.bat
+/build-feature1-scanner-6.2.bat
+/build-feature1.bat
